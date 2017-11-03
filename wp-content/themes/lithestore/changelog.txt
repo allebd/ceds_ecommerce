@@ -1,0 +1,77 @@
+== Changelog ==
+= 1.0 =
+* Released: Jan 6, 2016
+
+= 1.0.2 =
+* Released: Jan 7, 2016
+* Changed Log
+  - Updated the language file
+
+= 1.0.3 =
+* Released: May 07, 2016
+* Changed Log
+  - Reduced the width of top wrapper to 1000px
+  - Add two hooks:lithestore_header_before / lithestore_header_after
+  - Fixed some small php issues.
+  - Fixed some CSS issues.
+  - Fixed the calendar styling broken issue.
+  - Fixed the topbar is overlap on admin bar issue.
+  - Fixed the close button of mobile menu is overlap on admin bar issue.
+  - Added lithestore_ prefix for all variables name.
+
+= 1.0.4 =
+* Released: May 10, 2016
+* Changed Log
+  - Fixed the responsive issues on 1024px and 768px screen.
+  - Fixed the mobile button responsive issue on 768px screen.
+  - Fixed some other CSS issues.
+
+= 1.0.5 =
+* Released: May 14, 2016
+* Changed Log
+  - Fixed a responsive issues on 768px screen.
+  - Fixed the sub menu does’t display.
+
+= 1.0.6 =
+* Released: June 23, 2016
+* Changed Log
+  - Fixed some CSS issues.
+  - Fixed the drop menu doesn't work in the inner page.
+  - Fixed some PHP errors.
+  - Improved some issues for accessibility-ready
+
+= 1.0.7 =
+* Released: July 11, 2016
+* Changed Log
+  - Fixed some CSS issues.
+  - Improved some issues for accessibility-ready
+
+= 1.0.8 =
+* Released: July 19, 2016
+* Changed Log
+  - Fixed some CSS issues.
+  - Improved some PHP security issues
+
+= 1.0.9 =
+* Released: July 28, 2016
+* Changed Log
+  - Fixed some CSS issues.
+  - Compatible with WooCommerce 2.6.x
+
+= 1.1.0 =
+* Released: July 29, 2016
+* Changed Log
+  - Compatible with Max Mega Menu plugin now.
+  - Added mobile menu to the theme location of the menu.
+
+= 1.1.1 =
+* Released: October 02, 2016
+* Changed Log
+  - Added One Click Demo Import Feature.
+
+= 1.1.2 =
+* Released: November, 2016
+* Changed Log
+  - Fixed the menu responsive issue.
+  - Fixed when click anchor link in product page, it was scroll down a bit far.
+

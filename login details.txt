@@ -1,0 +1,6 @@
+username: user
+password: freebasics09
+
+psudo-user
+username: Mike
+password: shopping

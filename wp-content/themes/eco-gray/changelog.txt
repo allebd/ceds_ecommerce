@@ -1,0 +1,38 @@
+== changelog ==
+
+1.7.6
+- add_theme_support( 'title-tag' ); 
+
+1.7.5
+- Language - Uzbek
+
+1.7.2
+- Language - Czech
+
+1.7.1
+- add Translation
+
+1.7
+- add Translation
+- add Screen-reader text
+
+= 1.6.3 =
+- Localization Ready: Albanian, Azerbaijani, Basque, Bengali, Bosnian, Bulgarian, Catalan, Chinese (China), Chinese (Taiwan), Croatian, Danish, Estonian, Finnish, Galician, Hazaragi, Hebrew,  Icelandic, Latvian, Lithuanian, Macedonian, Myanmar, Norwegian, Occitan, Pashto, Persian, Portuguese, Romanian, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Spanish (Mexico), Spanish (Peru), Swedish, Switzerland, Tagalog, Thai, Uighur, Vietnamese, Welsh
+
+= 1.6.2 =
+- Localization Ready: Arabic, Czech, Indonesian, Japanese, Korean, Romana, Turkish
+
+= 1.6 =
+- BBpress
+- BuddyPress
+
+= 1.5 =
+- Localization Ready: English, French, German, Hungarian, Italian, Russian
+- bug fix
+
+= 1.4  =
+- bug fix 
+
+= 1.3.2 =
+- add 3 Related Products
+- add eco-gray-pro-sidebar-home-4.jpg

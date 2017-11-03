@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Keep Calm and E-Comm\n"
+"POT-Creation-Date: 2017-07-27 09:51-0500\n"
+"PO-Revision-Date: 2017-07-27 09:52-0500\n"
+"Last-Translator: \n"
+"Language-Team: Etoile Web Design\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../keep-calm-and-e-comm/404.php:4
+msgid "The requested URL was not found."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/404.php:12
+msgid "404 Page Not Found"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/404.php:23
+msgid "Use the form below to search the site."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/archive.php:28 ../keep-calm-and-e-comm/index.php:28
+#: ../keep-calm-and-e-comm/search.php:28
+msgid "Previous page"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/archive.php:29 ../keep-calm-and-e-comm/index.php:29
+#: ../keep-calm-and-e-comm/search.php:29
+msgid "Next page"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/archive.php:30 ../keep-calm-and-e-comm/index.php:30
+#: ../keep-calm-and-e-comm/search.php:30 ../keep-calm-and-e-comm/single.php:42
+msgid "Page"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/archive.php:33 ../keep-calm-and-e-comm/home.php:39
+#: ../keep-calm-and-e-comm/index.php:33 ../keep-calm-and-e-comm/page.php:38
+#: ../keep-calm-and-e-comm/search.php:33 ../keep-calm-and-e-comm/single.php:74
+#: ../keep-calm-and-e-comm/template-leftsidebar.php:41
+#: ../keep-calm-and-e-comm/template-sidebar.php:41
+msgid "Sorry, no content matched your criteria."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:97
+msgid "Main Menu"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:112
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:120
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:128
+msgid "Footer"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:265
+msgid "Logo"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:285
+msgid "Logo Height"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:286
+msgid "Specify the logo height in pixels (e.g. 24px)"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:301
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:302
+msgid "Specify the margin above the logo in pixels (e.g. 28px)"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:318
+msgid "Alternate Logo"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:319
+msgid ""
+"Use this if you'd like a different logo to appear in the transparent menu on "
+"the slider in the homepage template"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:346
+#: ../keep-calm-and-e-comm/functions.php:723
+#: ../keep-calm-and-e-comm/functions.php:842
+msgid "Text Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:364
+msgid "Link Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:382
+msgid "Header Background Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:400
+msgid "Menu Text Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:418
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:436
+msgid "Menu Drop Down Background Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:454
+msgid "Menu Drop Down Background Hover Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:472
+msgid "Menu Drop Down Text Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:490
+msgid "Menu Drop Down Text Hover Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:508
+msgid "Page Title Bar Background Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:526
+msgid "Page Title Bar Text Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:545
+msgid "Fonts"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:546
+msgid ""
+"You only need to type in the name of the font (e.g. Helvetica). Please note "
+"that, if you use a Google font or other webfont, you must also properly "
+"include that font (i.e. in the header file, the functions file or via CSS)."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:561
+msgid "Main Body Font"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:576
+msgid "Heading Font"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:591
+msgid "Menu Font"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:610
+msgid "Callout Area"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:625
+msgid "Display Callout Area on Homepage"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:628
+#: ../keep-calm-and-e-comm/functions.php:765
+#: ../keep-calm-and-e-comm/functions.php:921
+#: ../keep-calm-and-e-comm/functions.php:941
+#: ../keep-calm-and-e-comm/functions.php:961
+#: ../keep-calm-and-e-comm/functions.php:1002
+#: ../keep-calm-and-e-comm/functions.php:1043
+msgid "Yes"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:629
+#: ../keep-calm-and-e-comm/functions.php:766
+#: ../keep-calm-and-e-comm/functions.php:922
+#: ../keep-calm-and-e-comm/functions.php:942
+#: ../keep-calm-and-e-comm/functions.php:962
+#: ../keep-calm-and-e-comm/functions.php:1003
+#: ../keep-calm-and-e-comm/functions.php:1044
+msgid "No"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:644
+#: ../keep-calm-and-e-comm/functions.php:781
+msgid "Heading Text"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:659
+#: ../keep-calm-and-e-comm/functions.php:796
+msgid "Sub-Heading Text"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:674
+#: ../keep-calm-and-e-comm/functions.php:811
+msgid "Button Text"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:689
+#: ../keep-calm-and-e-comm/functions.php:826
+msgid "Button Link"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:705
+msgid "Background Color"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:746
+msgid "Text on Picture"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:761
+msgid "Display Text-on-Picture Area on Homepage"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:762
+msgid "Should the text overlay on a background image area be displayed?"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:860
+msgid "Background Image"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:878
+msgid "Overlay Image"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:901
+msgid "Home Page Options"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:902
+msgid ""
+"The options to enable the Callout and Text-on-Picture areas can be found in "
+"the \"Callout Area\" and \"Text on Picture\" sections just below."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:917
+msgid "Display Slider"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:918
+msgid "Should the slider be displayed on the homepage?"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:937
+msgid "Display Static First Slide Only"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:938
+msgid ""
+"Select this option to display your first slide as a static image, with no "
+"sliding or animation."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:957
+msgid "Display Jump Boxes"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:958
+msgid "Should the jump boxes be displayed on the homepage?"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:977
+msgid "Jump Boxes Number of Columns"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:978
+msgid "Select the number of columns for your jump boxes."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:981
+#: ../keep-calm-and-e-comm/functions.php:1022
+msgid "2"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:982
+#: ../keep-calm-and-e-comm/functions.php:1023
+msgid "3"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:983
+#: ../keep-calm-and-e-comm/functions.php:1024
+msgid "4"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:998
+msgid "Display Testimonials"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:999
+msgid "Should the testimonials be displayed on the homepage?"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1018
+msgid "Testimonials Number of Columns"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1019
+msgid "Select the number of columns for your testimonials."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1039
+msgid "Display Featured Products"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1040
+msgid "Should featured products be displayed on the homepage?"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1065
+#: ../keep-calm-and-e-comm/functions.php:1080
+msgid "Tracking Page URL"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1081
+msgid ""
+"Input here the URL of the page on which you've placed the [tracking-form] "
+"shortcode. This will ensure correct functionality of the features related to "
+"the Status Tracking plugin."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1143
+msgid "Keep Calm Important Links"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/functions.php:1281
+msgid "Read More"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/header.php:9
+msgid "Track Order"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/home.php:5
+msgid "Blog"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/home.php:27
+msgid "Posted by"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/home.php:27 ../keep-calm-and-e-comm/single.php:22
+msgid "by"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/home.php:27 ../keep-calm-and-e-comm/single.php:22
+msgid "on"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/home.php:29 ../keep-calm-and-e-comm/single.php:24
+msgid "in"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/page.php:24 ../keep-calm-and-e-comm/single.php:34
+#: ../keep-calm-and-e-comm/template-leftsidebar.php:25
+#: ../keep-calm-and-e-comm/template-sidebar.php:25
+msgid "Edit"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/search.php:10
+msgid "Search Results"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/searchform.php:3
+msgid "Submit"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:22
+msgid "Posted"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:33
+msgid "<p>Tags: "
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:33
+msgid "</p>"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:38
+msgid "Pages:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:50
+msgid "Next:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:51
+msgid "Next post:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:53
+msgid "Previous:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/single.php:54
+msgid "Previous post:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/template-home.php:20
+msgid "Featured Products"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/template-home.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/template-home.php:24
+msgid "FULL CATALOG"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/template-home.php:98
+msgid "Track an Order"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/template-home.php:99
+msgid "Enter your tracking code below and press Enter"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/template-home.php:102
+msgid "Enter Tracking #"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/template-home.php:122
+msgid "Sorry, but it seems that a homepage hasn't been created."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:387
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../keep-calm-and-e-comm/lib/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""

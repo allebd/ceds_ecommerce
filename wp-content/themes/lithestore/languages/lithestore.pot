@@ -1,0 +1,534 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LitheStore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat May 07 2016 04:01:50 GMT+0800 (CST)\n"
+"POT-Revision-Date: Sat May 07 2016 04:01:56 GMT+0800 (CST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:40 ../comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:43 ../comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:44 ../comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../sidebar-home.php:18
+msgid "No Widget!"
+msgstr ""
+
+#: ../sidebar-home.php:20
+msgid ""
+"You could add some widgets here in Appearance > Widgets, drop the widget to "
+"the Homepage sidebar area."
+msgstr ""
+
+#: ../framework/init.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: ../framework/init.php:113
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../framework/init.php:115
+msgid "This sidebar will included in the category and single post page."
+msgstr ""
+
+#: ../framework/init.php:123
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: ../framework/init.php:125
+msgid "This sidebar will included in the homepage template."
+msgstr ""
+
+#: ../framework/init.php:133
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../framework/init.php:135
+msgid "This sidebar will included in the default page template."
+msgstr ""
+
+#: ../framework/init.php:144
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../framework/init.php:146
+msgid "This sidebar will included in the shop pages."
+msgstr ""
+
+#: ../framework/init.php:155
+msgid "Bottom Widget 1"
+msgstr ""
+
+#: ../framework/init.php:157
+msgid "This widget area is placed at the left of bottom area."
+msgstr ""
+
+#: ../framework/init.php:165
+msgid "Bottom Widget 2"
+msgstr ""
+
+#: ../framework/init.php:167
+msgid "This widget area is placed at the second left of bottom area."
+msgstr ""
+
+#: ../framework/init.php:175
+msgid "Bottom Widget 3"
+msgstr ""
+
+#: ../framework/init.php:177
+msgid "This widget area is placed at the middle of bottom area."
+msgstr ""
+
+#: ../framework/init.php:185
+msgid "Bottom Widget 4"
+msgstr ""
+
+#: ../framework/init.php:187
+msgid "This widget area is placed at the right of bottom area."
+msgstr ""
+
+#: ../framework/init.php:205
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../framework/init.php:206
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: ../framework/init.php:207
+msgctxt "Lato: on or off"
+msgid "on"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:37
+msgid "Custom LOGO"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:38
+msgid "Your theme recommends a LOGO max size of 280 x 60 pixels."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:57
+msgid "Copyright Text"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:70
+msgid "Colors"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:71
+msgid "You can change the color scheme below."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:90
+msgid "Global Color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:102
+msgid "Fonts"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:103
+msgid "You can change the other font from the following google fonts list."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:121
+msgid "LOGO Text Font"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:142
+msgid "Heading Text Font"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:163
+msgid "Navigation Text Font"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:184
+msgid "Body Text Font"
+msgstr ""
+
+#: ../framework/functions/extras.php:32
+msgid "Search for:"
+msgstr ""
+
+#: ../framework/functions/extras.php:34
+msgid "Search"
+msgstr ""
+
+#: ../framework/functions/welcome/welcome.php:42
+msgid ""
+"Thanks for choosing LitheStore! Just click the following button to get more "
+"useful tips on getting started step by step."
+msgstr ""
+
+#: ../framework/functions/welcome/welcome.php:43
+msgid "Get started with LitheStore"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:15
+msgid "Build a Elegant online store."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:17
+msgid ""
+"LitheStore is a free elegant E-commerce WordPress theme based on WooCommerce."
+" It's easy to set up for WordPress beginners if you follow these steps below."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:19
+msgid "Getting Started Step by step"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:22
+#, php-format
+msgid "%s is activated"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:24
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:26
+#, php-format
+msgid "Download <a href=\"%s\" target=\"_blank\">LitheStore dummy data</a>"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:29
+#, php-format
+msgid ""
+"Unzip the package, you will get two xml files. Go to <a href=\"%s\" "
+"target=\"_blank\">Tools > Import</a> page, upload those two xml files."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:32
+#, php-format
+msgid ""
+"Go to <a href=\"%s\" target=\"_blank\">Appearance > Menus</a>, select \"Primary "
+"Menu\", and check \"primary menu\" for \"Theme locations\"."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:37
+#, php-format
+msgid ""
+"Go to <a href='%s' target='_blank'>Settings > Reading</a>, select the 'Home' "
+"as the front page.That's it! Your website will look as same as the <a "
+"href='%s' target='_blank'>demo site</a>. You can modify the posts or "
+"products content based on the dummy data."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:42
+#, php-format
+msgid ""
+"There are some custom options included in the <a href=\"%s\" "
+"target=\"_blank\">Appearance > Customize</a> that allow you to change the "
+"fonts or color.\n"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:51
+msgid ""
+"The premium version Focux is based on Lithestore framework. We include "
+"Visual Composer Page Builder and Revolution Slider into this version, and "
+"there are more amazing new features in it."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:52
+msgid "Learn More"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:52
+msgid "Buy Now"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:54
+msgid "REQUENTLY ASKED QUESTIONS"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:57
+msgid "Why I can't import the dummy data?"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:58
+msgid ""
+"You'd better deactivated all plugins before you import the dummy data. After "
+"the data is imported, then reactivate the plugins."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:63
+msgid ""
+"What's the safe way to customize the theme without lose my changes when I "
+"upgrade the theme in the future?"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:64
+msgid ""
+"First of all, We strongly suggest you don't modify the LitheStore parent "
+"theme, otherwise, you will not able to upgrade the theme smoothly in the "
+"future. "
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:65
+#, php-format
+msgid ""
+"The best way is create your own child theme, you can put all your custom "
+"changes in your child theme folder without worry about your custom codes "
+"will be lost when you upgrade the parent theme in the future. Learn more "
+"about the <a href='%s' target='_blank'>Child Theme in WordPress Codex</a>. "
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:68
+#, php-format
+msgid ""
+"If you don't want to create child theme, we recommend you to install <a "
+"href='%s' target='_blank'>Custom css-js-php plugin</a>, it allows you to "
+"insert your own custom CSS, JS and PHP functions through your WordPress "
+"backend. "
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:73
+msgid "How to remove the specific sections from homepage?"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:74
+msgid ""
+"You can use the remove_action() to remove the  the specific sections. For "
+"example, you can use the following code to remove the product categories "
+"section."
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:76
+#, php-format
+msgid "More hooks you can find in %s"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:90
+#, php-format
+msgid "Latest %s News"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:113
+#, php-format
+msgid "The Other %s Themes"
+msgstr ""
+
+#: ../framework/functions/welcome/content/intro.php:123
+msgid "More Themes"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:79
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:84
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../framework/templates/template-tags.php:101 ../framework/templates/template-
+#: tags.php:107
+msgid ", "
+msgstr ""
+
+#: ../framework/templates/template-tags.php:103
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:109
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:115
+msgid "Leave a comment"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:115
+msgid "1 Comment"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:115
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:119 ../template-parts/content-page.
+#: php:30
+msgid "Edit"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:213
+msgid "Explore"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:243
+msgid "Proudly powered by"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:243
+msgid "Designed by"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:462
+msgid "Page"
+msgstr ""
+
+#: ../framework/woocommerce/extras.php:42
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: ../framework/woocommerce/template-tags.php:26
+msgid "Product Categories"
+msgstr ""
+
+#: ../framework/woocommerce/template-tags.php:57
+msgid "Recent Products"
+msgstr ""
+
+#: ../framework/woocommerce/template-tags.php:90
+msgid "Handpicked Stuffs"
+msgstr ""
+
+#: ../framework/woocommerce/template-tags.php:123
+msgid "Top Rated Products"
+msgstr ""
+
+#: ../framework/woocommerce/template-tags.php:155
+msgid "On Sale"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:21 ../template-parts/content-single.php:25 .
+#: ./template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../template-parts/content.php:38
+msgid "Continue reading"
+msgstr ""
+
+#: ../template-parts/popup.php:13
+msgid "Search Products"
+msgstr ""
+
+#: ../template-parts/popup.php:16
+msgid "Search Products and knock Enter key."
+msgstr ""
+
+#. Name of the theme
+msgid "LitheStore"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.themevan.com/item/lithestore"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"LitheStore is a free elegant E-Commerce Theme developed by ThemeVan. The "
+"complete demo is here http://demo.themevan.com/lithestore"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeVan"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.themevan.com"
+msgstr ""

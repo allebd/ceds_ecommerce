@@ -1,0 +1,52 @@
+.about-wrap .col.two-col {
+  margin-bottom: 0px; 
+  border-bottom:1px solid #ddd;
+  border-top:1px solid #fff;
+  padding-bottom:30px;
+ }
+
+.about-wrap .col.two-col .col{
+  width:46%;
+  margin-right:40px;
+}
+.about-wrap .col.two-col .col:last-child{
+  margin-right:0;
+}
+
+.about-wrap .col2-set::after {
+  clear: both;
+  content: "";
+  display: table; 
+}
+
+.about-wrap .col2-set .col-1,
+.about-wrap .col2-set .col-2 {
+  width: 48%;
+  float: left; 
+ }
+
+.about-wrap .col2-set .col-2 {
+  float: right; 
+ }
+
+.about-wrap .news h5{
+	margin-bottom:5px;
+}
+.about-wrap .date{
+  font-size:12px;
+}
+.about-wrap .themes a img{
+	width:43%;
+	margin:0 10px 10px 0;
+}
+.about-wrap .col li{
+	padding:10px 0;
+	border-bottom:1px solid #ddd;
+}
+.about-wrap .col li:last-child{
+	border:none;
+}
+.about-wrap .questions{
+	height:700px;
+	overflow: auto;
+}
